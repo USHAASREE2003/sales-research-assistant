@@ -1,216 +1,27 @@
-# 🎬 MovieFlix – React Movie Application
-
-## 🚀 Project Overview
-
-**MovieFlix** is a modern movie browsing web application built using React. This project was developed to gain hands-on experience with core frontend technologies, including component-based architecture, API integration, state management, and responsive UI design.
-
-It simulates a real-world streaming platform experience with features like movie browsing, search, favorites, and detailed movie views.
-
----
-
-## 🎯 Purpose of the Project
-
-This project was built to:
-
-* Understand **React fundamentals and architecture**
-* Learn **modern frontend development workflows (Vite)**
-* Work with **real-world APIs**
-* Practice **state management and data flow**
-* Improve **UI/UX design skills**
-* Build a **portfolio-ready application**
-
----
-
-## 🧠 Core Concepts Learned
-
-### ⚡ React Fundamentals
-
-* Component-based architecture
-* Reusable UI components
-* Separation of concerns
-
-### ⚡ Vite (Build Tool)
-
-* Fast development server
-* Optimized build performance
-* Modern project setup for React applications
-
-### ⚡ JSX (JavaScript XML)
-
-* Writing HTML-like syntax inside JavaScript
-* Dynamic rendering using JavaScript expressions
-* Cleaner and more readable UI code
-
----
-
-### ⚡ State Management
-
-#### useState Hook
-
-* Creating and managing component state
-* Handling dynamic UI updates
-
-#### Updating State
-
-* Updating state using setter functions
-* Managing state immutability
-
-#### Handling Input Fields
-
-* Controlled components
-* Updating state using input values
-
-```js
-onChange={(e) => setSearch(e.target.value)}
-```
-
----
-
-### ⚡ useEffect Hook
-
-* Handling side effects (API calls, lifecycle events)
-* Running code on component mount/update
-* Dependency-based execution
-
----
-
-### ⚡ Conditional Rendering
-
-* Rendering UI based on conditions
-* Examples:
-
-  * Loading states
-  * Empty results
-  * Dynamic content display
-
-```js
-{movies.length > 0 ? <MovieList /> : <NoResults />}
-```
-
----
-
-### ⚡ API Integration
-
-* Fetching data using `fetch()` / async-await
-* Handling asynchronous operations
-* Error handling and debugging API responses
-* Understanding API structure (JSON)
-
----
-
-### ⚡ Routing (React Router)
-
-* Navigation between pages
-* Dynamic routes
-* Creating a multi-page application experience
-
----
-
-### ⚡ React Context (Basic Understanding)
-
-* Avoiding prop drilling
-* Sharing global state across components
-* Centralized state management approach
-
----
-
-### ⚡ Local Storage
-
-* Persisting user data (favorites)
-* Storing and retrieving data from browser
-
----
-
-### ⚡ UI/UX Design
-
-* Responsive layouts using Flexbox & Grid
-* Netflix-style design approach
-* Hover effects and smooth interactions
-
----
-
-## ⚠️ Challenges Faced
-
-* Unstable API causing failures
-* Inconsistent data structure
-* Debugging asynchronous issues
-* UI breaking due to incorrect data mapping
-
----
-
-## 💡 Solutions Implemented
-
-* Switched to **OMDb API** for reliability
-* Implemented proper **error handling**
-* Used **console debugging** effectively
-* Fixed data mismatches (e.g., `Title` vs `title`)
-* Improved component structure and reusability
-
----
-
-## 🛠️ Technologies Used
-
-* React.js
-* Vite
-* JavaScript (ES6+)
-* CSS (Flexbox + Grid)
-* OMDb API
-* React Router
-
----
-
-## ✨ Features
-
-### 🎬 Movie Browsing
-
-* Category-based movie sections
-* Horizontal scrolling (Netflix-style)
-
-### 🔍 Search Functionality
-
-* Real-time movie search
-* Dynamic API-based results
-
-### ❤️ Favorites System
-
-* Add/remove movies
-* Stored in localStorage
-* Instant UI updates
-
-### 🎥 Movie Details
-
-* Popup modal with:
-
-  * Title
-  * Year
-  * Genre
-  * Ratings
-  * Plot
-
-### 🎨 UI/UX Design
-
-* Clean and modern layout
-* Sidebar navigation
-* Smooth animations
-* Responsive structure
-
----
-
-## 🚀 Future Improvements
-
-* 🎥 Add movie trailer support
-* 📱 Improve mobile responsiveness
-* 🔐 Add authentication system
-* 🌐 Deploy application online
-
----
-
-## 📌 Conclusion
-
-This project strengthened my understanding of React and modern frontend development. It helped me learn how to:
-
-* Build scalable applications
-* Work with APIs
-* Manage application state effectively
-* Solve real-world development challenges
-
+Sales Research AssistantAI Agent
+This project is an AI Agent built using Relevance AI.
+The agent acts as a Sales Research Assistant to help sales representatives prepare for calls with detailed company and prospect insights.
+
+🚀 Features
+Conducts company research from a given company URL
+Analyzes prospect information from LinkedIn profiles
+Generates structured pre-call reports with actionable insights
+Saves sales reps time by providing well-organized information
+🎯 Purpose of the Project
+As a beginner, my goal with this project was to:
+
+Explore AI agents and how they can automate real-world tasks
+Learn how to integrate external tools for research and reporting
+Create a simple, useful solution that can be used in sales workflows
+🔗 Live Demo
+You can try out the agent here:
+
+👉 Click here to chat with the AI Agent
+
+🛠️ Tech Used
+Relevance AI (Agent building platform)
+Embedded Web Agent for deployment
+📌 Future Improvements
+Add more tools for deeper company analysis
+Improve report formatting with visuals (charts, graphs, etc.)
+Create a frontend (React/HTML) with a custom UI
