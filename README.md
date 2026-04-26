@@ -1,27 +1,37 @@
-Sales Research AssistantAI Agent
-This project is an AI Agent built using Relevance AI.
-The agent acts as a Sales Research Assistant to help sales representatives prepare for calls with detailed company and prospect insights.
+# Sales Research AI Agent
 
-🚀 Features
-Conducts company research from a given company URL
-Analyzes prospect information from LinkedIn profiles
-Generates structured pre-call reports with actionable insights
-Saves sales reps time by providing well-organized information
-🎯 Purpose of the Project
-As a beginner, my goal with this project was to:
+An AI-powered Sales Research Assistant built using Relevance AI to help sales representatives prepare for prospect calls through automated company and lead research.
 
-Explore AI agents and how they can automate real-world tasks
-Learn how to integrate external tools for research and reporting
-Create a simple, useful solution that can be used in sales workflows
-🔗 Live Demo
-You can try out the agent here:
+## 🚀 Features
+- Conducts company research using a company website/URL  
+- Analyzes prospect information from LinkedIn profiles  
+- Generates structured pre-call briefing reports with actionable insights  
+- Helps sales teams save time by organizing research automatically  
 
-👉 Click here to chat with the AI Agent
+## 🎯 Project Goal
+This project was built to explore how AI agents can automate real-world business tasks, specifically in sales workflows. Through this project, I aimed to:
 
-🛠️ Tech Used
-Relevance AI (Agent building platform)
-Embedded Web Agent for deployment
-📌 Future Improvements
-Add more tools for deeper company analysis
-Improve report formatting with visuals (charts, graphs, etc.)
-Create a frontend (React/HTML) with a custom UI
+- Learn how AI agents can support business processes  
+- Integrate research and reporting tools into an automated workflow  
+- Build a practical solution for improving sales preparation  
+
+## 🛠️ Tech Stack
+- Relevance AI  
+- Embedded Web Agent Deployment  
+
+## 🔗 Live Demo
+👉 Add your demo link here
+
+## 📌 Future Improvements
+- Add tools for deeper company and competitor analysis  
+- Improve reports with visual dashboards, charts, and graphs  
+- Build a custom frontend using React/HTML  
+- Add CRM integrations (e.g., Salesforce, HubSpot)  
+- Include personalized sales talking points and objection insights  
+
+## 💡 Potential Impact
+This agent can help sales representatives:
+- Reduce manual research time  
+- Improve pre-call preparation  
+- Personalize outreach with better prospect insights  
+- Increase productivity in the sales process
