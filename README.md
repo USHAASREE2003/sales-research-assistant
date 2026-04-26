@@ -20,7 +20,7 @@ This project was built to explore how AI agents can automate real-world business
 - Embedded Web Agent Deployment  
 
 ## 🔗 Live Demo
-👉 Add your demo link here
+👉 [Click here to chat with Sales Copilot](https://app.relevanceai.com/agents/f1db6c/92938390-fdd1-485c-8b3f-2886bab5365d/a34e1aa4-db42-4f06-86ef-a52779427246/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd/chat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false&conversationId=new)
 
 ## 📌 Future Improvements
 - Add tools for deeper company and competitor analysis  
